@@ -17,7 +17,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://freshharvestga.com/skin1/images/fresh_harvest_logomark.svg
   name: Fresh Harvest Monitoring
-  introTitle: "Fresh Harvest status monitoring powered by upptime"
+  introTitle: Fresh Harvest status monitoring powered by upptime
   introMessage: 
   navbar:
     - title: Status
