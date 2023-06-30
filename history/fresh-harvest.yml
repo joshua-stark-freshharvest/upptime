@@ -1,7 +1,7 @@
 url: https://ecommerce.psalms.vy.technology/
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2023-06-29T23:11:00.964Z
+status: down
+code: 500
+responseTime: 705
+lastUpdated: 2023-06-30T20:29:51.835Z
 startTime: Mon Aug 15 2022 12:47:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
