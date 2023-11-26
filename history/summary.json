@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-26": 48,
+      "2023-11-26": 68,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -409,7 +409,7 @@
     "url": "https://blog.freshharvestga.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.freshharvestga.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "97.80%",
     "uptimeWeek": "99.69%",
@@ -421,6 +421,7 @@
     "timeMonth": 289,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2023-11-26": 0,
       "2023-11-25": 32
     }
   }
