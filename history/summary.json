@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.freshharvestga.com.ico",
     "slug": "zendesk",
     "status": "down",
-    "uptime": "11.81%",
+    "uptime": "11.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-01": 45,
+      "2024-02-01": 1029,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
@@ -410,9 +410,9 @@
     "url": "https://blog.freshharvestga.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.freshharvestga.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -422,6 +422,7 @@
     "timeMonth": 270,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2023-11-26": 57,
       "2023-11-25": 32
     }
