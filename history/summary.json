@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 778,
-    "timeDay": 308,
-    "timeWeek": 667,
-    "timeMonth": 682,
-    "timeYear": 770,
+    "timeDay": 710,
+    "timeWeek": 695,
+    "timeMonth": 686,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-12-31": 17
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.freshharvestga.com.ico",
     "slug": "zendesk",
     "status": "down",
-    "uptime": "8.33%",
+    "uptime": "8.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-11": 55,
+      "2024-09-12": 55,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -399,8 +400,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440
+      "2023-09-14": 1440
     }
   },
   {
@@ -414,10 +414,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 590,
-    "timeDay": 479,
-    "timeWeek": 727,
-    "timeMonth": 997,
+    "time": 591,
+    "timeDay": 489,
+    "timeWeek": 724,
+    "timeMonth": 995,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2024-08-16": 19,
