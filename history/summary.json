@@ -4,10 +4,10 @@
     "url": "https://ecommerce.psalms.vy.technology/",
     "icon": "https://icons.duckduckgo.com/ip3/ecommerce.psalms.vy.technology.ico",
     "slug": "fresh-harvest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 752,
@@ -16,6 +16,7 @@
     "timeMonth": 867,
     "timeYear": 743,
     "dailyMinutesDown": {
+      "2025-08-16": 1,
       "2025-04-22": 21,
       "2024-11-17": 16
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-16": 68,
+      "2025-08-16": 827,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -409,18 +410,19 @@
     "url": "https://blog.freshharvestga.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.freshharvestga.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 684,
+    "time": 683,
     "timeDay": 363,
     "timeWeek": 488,
     "timeMonth": 446,
     "timeYear": 598,
     "dailyMinutesDown": {
+      "2025-08-16": 0,
       "2025-04-22": 20,
       "2025-01-29": 15,
       "2024-11-17": 15
