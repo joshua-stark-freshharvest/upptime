@@ -4,7 +4,7 @@
     "url": "https://ecommerce.psalms.vy.technology/",
     "icon": "https://icons.duckduckgo.com/ip3/ecommerce.psalms.vy.technology.ico",
     "slug": "fresh-harvest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 66,
+      "2025-10-31": 940,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
